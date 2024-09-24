@@ -1,0 +1,22 @@
+#ifndef __SCREEN_H
+#define __SCREEN_H
+void Screen_Init(void);
+void Screen_Clear(void);
+void Screen_False(void);
+void Screen_True(void);
+void Screen_Add1(void);
+void Screen_Add2(void);
+void Screen_Add3(void);
+void Screen_Add4(void);
+void Screen_Add5(void);
+void Screen_Add6(void);
+void Screen_Add7(void);
+void Screen_Del1(void);
+void Screen_Del2(void);
+void Screen_Trou(void);
+void Screen_Win1(void);
+void Screen_Win2(void);
+void Screen_Win3(void);
+void Screen_Win4(void);
+void Screen_Win5(void);
+#endif
